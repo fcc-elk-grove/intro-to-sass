@@ -1,0 +1,16 @@
+/* Variables */
+:root {
+  --color-main: red;
+}
+
+h1 {
+  background-color: var(--color-main);
+}
+
+p {
+  color: var(--color-main);
+}
+
+small {
+  color: var(--color-main);
+}

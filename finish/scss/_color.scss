@@ -1,0 +1,13 @@
+// Color
+
+// Variable example
+$color-main: purple;
+
+// Apply colors
+h1 {
+  background-color: $color-main;
+}
+
+p, small {
+  color: $color-main;
+}

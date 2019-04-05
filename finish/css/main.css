@@ -1,0 +1,23 @@
+/* This comment will be in the CSS file */
+h1 {
+  background-color: purple;
+}
+
+p, small {
+  color: purple;
+}
+
+small, p, h1 {
+  text-align: center;
+  padding-top: 40px;
+  margin-bottom: 40px;
+}
+
+#about p {
+  color: green;
+}
+#about small {
+  color: pink;
+}
+
+/*# sourceMappingURL=main.css.map */
